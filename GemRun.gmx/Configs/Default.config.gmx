@@ -270,14 +270,14 @@
     <option_win8_native_cpu>x86</option_win8_native_cpu>
     <option_win8_package_display_name>YourPackageDisplayName</option_win8_package_display_name>
     <option_win8_package_name>YourPackageName</option_win8_package_name>
-    <option_win8_portrait_allowed>0</option_win8_portrait_allowed>
-    <option_win8_portrait_flipped_allowed>0</option_win8_portrait_flipped_allowed>
+    <option_win8_portrait_allowed>-1</option_win8_portrait_allowed>
+    <option_win8_portrait_flipped_allowed>-1</option_win8_portrait_flipped_allowed>
     <option_win8_publisher_display_name>YourPublisherName</option_win8_publisher_display_name>
     <option_win8_revision_version>0</option_win8_revision_version>
     <option_win8_scaling_stretch>false</option_win8_scaling_stretch>
     <option_win8_search_capable>0</option_win8_search_capable>
     <option_win8_small_logo>Configs\Default\Windows8\logos\logo30.png</option_win8_small_logo>
-    <option_win8_splash_background_colour>#000000</option_win8_splash_background_colour>
+    <option_win8_splash_background_colour>#400040</option_win8_splash_background_colour>
     <option_win8_splash_png>Configs\Default\Windows8\splashscreen.png</option_win8_splash_png>
     <option_win8_store_logo>Configs\Default\Windows8\logos\logo50.png</option_win8_store_logo>
     <option_win8_texture_page>1024</option_win8_texture_page>

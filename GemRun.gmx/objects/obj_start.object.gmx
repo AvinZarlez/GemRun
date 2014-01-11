@@ -29,6 +29,8 @@
 {  
     start_button_x = view_wport[0] / 2;
     start_button_y = view_hport[0] / 2;
+    
+    logo_x = view_wport[0] / 2;
 }
 </string>
           </argument>
@@ -208,6 +210,8 @@ if (btn_check(start_button_x,start_button_y+128))
             <string>start_button_x = view_wport[0] / 2;
 start_button_y = view_hport[0] / 2;
 
+logo_x = view_wport[0] / 2;
+    
 start_button_pressed = false;
 about_button_pressed = false;
 </string>
@@ -277,6 +281,38 @@ about_button_pressed = false;
           <argument>
             <kind>13</kind>
             <string>16777215</string>
+          </argument>
+        </arguments>
+      </action>
+      <action>
+        <libid>1</libid>
+        <id>501</id>
+        <kind>0</kind>
+        <userelative>-1</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>-1</useapplyto>
+        <exetype>1</exetype>
+        <functionname>action_draw_sprite</functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+        <arguments>
+          <argument>
+            <kind>5</kind>
+            <sprite>spr_logo</sprite>
+          </argument>
+          <argument>
+            <kind>0</kind>
+            <string>logo_x</string>
+          </argument>
+          <argument>
+            <kind>0</kind>
+            <string>148+32</string>
+          </argument>
+          <argument>
+            <kind>0</kind>
+            <string>-1</string>
           </argument>
         </arguments>
       </action>

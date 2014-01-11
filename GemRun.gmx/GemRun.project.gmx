@@ -15,6 +15,7 @@
     <sprite>sprites\spr_btn_green</sprite>
     <sprite>sprites\spr_btn_red</sprite>
     <sprite>sprites\spr_gem_orange</sprite>
+    <sprite>sprites\spr_logo</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\bg_grass</background>
