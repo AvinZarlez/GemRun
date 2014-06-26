@@ -166,6 +166,7 @@
     <option_linux_scale>-1</option_linux_scale>
     <option_linux_screenkey>-1</option_linux_screenkey>
     <option_linux_sizeable>0</option_linux_sizeable>
+    <option_linux_splash_png>Configs\Default\linux\splash.png</option_linux_splash_png>
     <option_linux_steam_app_id>0</option_linux_steam_app_id>
     <option_linux_sync>0</option_linux_sync>
     <option_linux_texture_page>2048</option_linux_texture_page>
@@ -208,6 +209,7 @@
     <option_scaleprogress>true</option_scaleprogress>
     <option_screenkey>True</option_screenkey>
     <option_screenshotkey>true</option_screenshotkey>
+    <option_shortcircuit>True</option_shortcircuit>
     <option_showcursor>True</option_showcursor>
     <option_showprogress>1</option_showprogress>
     <option_sizeable>True</option_sizeable>
@@ -309,7 +311,7 @@
     <option_winphone_advertising_key></option_winphone_advertising_key>
     <option_winphone_advertising_testing_enable>0</option_winphone_advertising_testing_enable>
     <option_winphone_advertising_type></option_winphone_advertising_type>
-    <option_winphone_author>You</option_winphone_author>
+    <option_winphone_author>Tobiah Marks</option_winphone_author>
     <option_winphone_build_version>0</option_winphone_build_version>
     <option_winphone_cycle_small_image>Configs\Default\WinPhone\CycleSmall.png</option_winphone_cycle_small_image>
     <option_winphone_cycle_wide_image_1>Configs\Default\WinPhone\CycleWide1.png</option_winphone_cycle_wide_image_1>
@@ -321,10 +323,10 @@
     <option_winphone_cycle_wide_image_7>Configs\Default\WinPhone\CycleWide7.png</option_winphone_cycle_wide_image_7>
     <option_winphone_cycle_wide_image_8>Configs\Default\WinPhone\CycleWide8.png</option_winphone_cycle_wide_image_8>
     <option_winphone_cycle_wide_image_9>Configs\Default\WinPhone\CycleWide9.png</option_winphone_cycle_wide_image_9>
-    <option_winphone_description>YourDescription</option_winphone_description>
+    <option_winphone_description>An endless runner gem collecting game</option_winphone_description>
     <option_winphone_display_name>Gem Run</option_winphone_display_name>
     <option_winphone_flip_content_back></option_winphone_flip_content_back>
-    <option_winphone_flip_content_front></option_winphone_flip_content_front>
+    <option_winphone_flip_content_front>Gem Run</option_winphone_flip_content_front>
     <option_winphone_flip_medium_back_image>Configs\Default\WinPhone\FlipMedBack.png</option_winphone_flip_medium_back_image>
     <option_winphone_flip_medium_front_image>Configs\Default\WinPhone\FlipMedFront.png</option_winphone_flip_medium_front_image>
     <option_winphone_flip_small_back_image>FlipSmallBack.png</option_winphone_flip_small_back_image>
